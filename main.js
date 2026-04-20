@@ -692,8 +692,8 @@
     { title:"Realiti",           artist:"Grimes",                 src:"music/Grimes - Realiti.mp3" },
     { title:"Episode 33",        artist:"She Her Her Hers",       src:"music/She Her Her Hers - Episode 33.mp3" },
     { title:"About You",         artist:"The 1975",               src:"music/The 1975 - About You.mp3" },
-    { title:"Track 04",          artist:"—",                      src:"music/04.mp3" },
-    { title:"Track 05",          artist:"—",                      src:"music/05.mp3" },
+    { title:"How Can I Make It OK?",artist:"Wolf Alice",          src:"music/Wolf Alice - How Can I Make It OK_.mp3" },
+    { title:"Lipstick On The Glass",artist:"Wolf Alice",          src:"music/Wolf Alice - Lipstick On The Glass.mp3" },
   ];
 
   var audio = new Audio(), curIdx = -1, vizT = null;
