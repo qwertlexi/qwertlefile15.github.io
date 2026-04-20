@@ -688,6 +688,7 @@
     { title:"GO",                artist:"BLACKPINK",              src:"music/BLACKPINK - GO.mp3" },
     { title:"BIRDS OF A FEATHER",artist:"Billie Eilish",          src:"music/Billie Eilish - BIRDS OF A FEATHER.mp3" },
     { title:"Best Part",         artist:"Daniel Caesar / H.E.R.", src:"music/Daniel Caesar; H.E.R. - Best Part.mp3" },
+    { title:"Butterfly",          artist:"Grimes",                 src:"music/Grimes - Butterfly.mp3" },
     { title:"Oblivion",          artist:"Grimes",                 src:"music/Grimes - Oblivion.mp3" },
     { title:"Realiti",           artist:"Grimes",                 src:"music/Grimes - Realiti.mp3" },
     { title:"Episode 33",        artist:"She Her Her Hers",       src:"music/She Her Her Hers - Episode 33.mp3" },
