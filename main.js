@@ -685,13 +685,15 @@
      MUSIC PLAYER
   ════════════════════════════════════════════════ */
   var TRACKS = [
-    { title:"GO",                artist:"BLACKPINK",              src:"music/BLACKPINK - GO.mp3" },
-    { title:"BIRDS OF A FEATHER",artist:"Billie Eilish",          src:"music/Billie Eilish - BIRDS OF A FEATHER.mp3" },
-    { title:"Best Part",         artist:"Daniel Caesar / H.E.R.", src:"music/Daniel Caesar; H.E.R. - Best Part.mp3" },
-    { title:"Oblivion",          artist:"Grimes",                 src:"music/Grimes - Oblivion.mp3" },
-    { title:"Realiti",           artist:"Grimes",                 src:"music/Grimes - Realiti.mp3" },
-    { title:"Episode 33",        artist:"She Her Her Hers",       src:"music/She Her Her Hers - Episode 33.mp3" },
-    { title:"About You",         artist:"The 1975",               src:"music/The 1975 - About You.mp3" },
+    { title:"GO",                   artist:"BLACKPINK",              src:"music/BLACKPINK - GO.mp3" },
+    { title:"BIRDS OF A FEATHER",   artist:"Billie Eilish",          src:"music/Billie Eilish - BIRDS OF A FEATHER.mp3" },
+    { title:"Girls & Boys",         artist:"blur",                   src:"music/Blur - Girls & Boys (2012 Remaster).mp3" },
+    { title:"Song 2",               artist:"blur",                   src:"music/Blur - Song 2 (2012 Remaster).mp3" },
+    { title:"Best Part",            artist:"Daniel Caesar / H.E.R.", src:"music/Daniel Caesar; H.E.R. - Best Part.mp3" },
+    { title:"Oblivion",             artist:"Grimes",                 src:"music/Grimes - Oblivion.mp3" },
+    { title:"Realiti",              artist:"Grimes",                 src:"music/Grimes - Realiti.mp3" },
+    { title:"Episode 33",           artist:"She Her Her Hers",       src:"music/She Her Her Hers - Episode 33.mp3" },
+    { title:"About You",            artist:"The 1975",               src:"music/The 1975 - About You.mp3" },
     { title:"How Can I Make It OK?",artist:"Wolf Alice",          src:"music/Wolf Alice - How Can I Make It OK_.mp3" },
     { title:"Lipstick On The Glass",artist:"Wolf Alice",          src:"music/Wolf Alice - Lipstick On The Glass.mp3" },
   ];
