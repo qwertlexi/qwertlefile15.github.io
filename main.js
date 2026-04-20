@@ -384,6 +384,11 @@
       "You\'re the one that I desire",
       "If you love me won\'t you say something?",
     ],
+    butterfly: [
+      "There is harmony in everything"\"You can be anything out there",
+      "It\'s a butterfly whose wings span the world",
+      "Butterflies flying in the air",
+    ],
     oblivion: [
       "See you on the dark night",
       "I would ask if you help me out",
