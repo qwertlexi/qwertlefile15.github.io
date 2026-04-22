@@ -25,8 +25,8 @@
   var rainbowMode = 0; // 0=off, >0 = frames remaining, fades out over ~600 frames
   // Mouse parting
   var mouseX = -9999, mouseY = -9999;
-  var PART_RADIUS = 120;  // px — how far mouse pushes cols
-  var PART_FORCE  = 22;   // max pixel displacement per char
+  var PART_RADIUS = 100;  // px — how far mouse pushes cols
+  var PART_FORCE  = 15;   // max pixel displacement per char
   document.addEventListener("mousemove", function(e) { mouseX = e.clientX; mouseY = e.clientY; });
   document.addEventListener("mouseleave", function() { mouseX = -9999; mouseY = -9999; });
   // Touch support — finger parting the rain
