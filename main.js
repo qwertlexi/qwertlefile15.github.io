@@ -641,7 +641,7 @@
     // { md: "02-14", phrase: "love is just signal with high snr", color: "#ff3b6b" },
     // Your birthday — uncomment and change MM-DD:
     // { md: "MM-DD", phrase: "happy birthday, qwertlexi",         color: "#ffe600" },
-  ];
+
   // ────────────────────────────────────────────────
 
   (function checkSpecialDate() {
