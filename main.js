@@ -632,8 +632,7 @@
      (null = keep current green).
   ════════════════════════════════════════════════ */
   // ── Edit your special dates here ────────────────
-  var SPECIAL_DATES = [{ md: "01-11", phrase: "happy birthday to me",         color: "#00ffea" },
-                       { md: "04-24", phrase: "always a catch",   color: null },
+  var SPECIAL_DATES = [
     // { md: "01-01", phrase: "新年快乐 · new signal, new year",   color: null },
     // { md: "10-31", phrase: "// ghost mode: maximum",            color: "#b44fff" },
     // { md: "02-14", phrase: "love is just signal with high snr", color: "#ff3b6b" },
