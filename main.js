@@ -457,8 +457,8 @@
   // ── Edit your intro lines here ──────────────────
   var WHOAMI_LINES = [
     "qwertlexi",
-    "signal from the noise.",
-    "music · code · 低轨道漂流",
+    "signal from the silence.",
+    "music · code · whatever",
     "this terminal is a window.",
     "the rain never stops.",
   ];
@@ -910,7 +910,6 @@
     "speed s|n|f    雨速 慢/正常/快",
     "theme d|l      主题 暗/亮",
     "─────────────────────────────────",
-    "visitors       访客计数",
     "leave <内容>   在留言墙留言",
     "history        本次访问记录",
     "capsule        时间胶囊",
