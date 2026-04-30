@@ -755,7 +755,7 @@
   // ── Edit your special dates here ────────────────
   var SPECIAL_DATES = [
   { md: "01-11", phrase: "happy birthday to me", color: "#00ffea" },
-  { md: "04-24", phrase: "always a catch", color: null },
+  { md: "05-02", phrase: "happy anniversary？", color: null },
 ];
     // { md: "01-01", phrase: "新年快乐 · new signal, new year",   color: null },
     // { md: "10-31", phrase: "// ghost mode: maximum",            color: "#b44fff" },
@@ -1115,10 +1115,10 @@
     var WELCOME = [
       { text: "连接已建立 · 欢迎进入",          type: "ok",  delay: 0    },
       { text: "这里没有说明书。",                type: "sys", delay: 500  },
-      { text: "但有些东西值得你去找。",          type: "sys", delay: 1100 },
+      { text: "有些东西可以看看。",          type: "sys", delay: 1100 },
       { text: "",                                type: "",    delay: 1700 },
       { text: "试试输入  help",                 type: "ok",  delay: 2100 },
-      { text: "或者什么都不输入，只是看着。",    type: "sys", delay: 2800 },
+      { text: "或者什么都不输入，只随便看看。",    type: "sys", delay: 2800 },
     ];
     function runWelcome() {
       if (!window._bootWelcomeDone) { setTimeout(runWelcome, 120); return; }
