@@ -3540,8 +3540,8 @@
               })(),                                       delay: 2100, cls: "bd-dim"  },
             { text: "COORDINATES: 127.0.0.1 · LOCAL", delay: 2700, cls: "bd-dim"  },
             { text: "",                                   delay: 3300, cls: "bd-gap"  },
-            { text: "你居然来了。", delay: 3800, cls: "bd-zh"  },
-            { text: "来都来了——",        delay: 4700, cls: "bd-zh"  },
+            { text: "没想到会有人点开。", delay: 3800, cls: "bd-zh"  },
+            { text: "既然都来了——",        delay: 4700, cls: "bd-zh"  },
           ];
 
           var lastDelay = 0;
